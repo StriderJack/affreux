@@ -1,0 +1,9 @@
+h1 {
+	color: red;
+	text-decoration:underline;
+	text-align: center;
+}
+p {
+	margin-left: 20px;
+	padding-left: 20px;
+}
